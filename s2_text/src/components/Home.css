@@ -1,0 +1,22 @@
+.home {
+  padding: 32px;
+  text-align: center;
+  color: var(--text-h);
+}
+
+.home h1 {
+  font-size: 28px;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+
+.home p {
+  font-size: 16px;
+  color: #555;
+}
+
+@media (max-width: 1024px) {
+  .home {
+    padding: 20px;
+  }
+}
