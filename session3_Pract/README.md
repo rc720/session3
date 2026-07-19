@@ -71,7 +71,7 @@ Users can enter an employee's **Name** and **Salary**. When the **Click** button
 - Render list using `map()`
 - Unique `key` for each list item
 
-![alt text](home.png)
+![alt text]( ./src/screenshoot/home.png)
 ---
 
 ## 2️⃣ Form Handling using useState
