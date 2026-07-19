@@ -72,6 +72,7 @@ Users can enter an employee's **Name** and **Salary**. When the **Click** button
 - Unique `key` for each list item
 
 ![alt text]( ./src/screenshoot/home.png)
+![alt text](./src/screenshoot/form.png)
 ---
 
 ## 2️⃣ Form Handling using useState
